@@ -1,0 +1,37 @@
+.bg-purple {
+    background-color: #3c1f5f;
+}
+
+.calculator {
+    width: 320px;
+    border-radius: 15px;
+}
+
+.pantalla {
+    background-color: #212529;
+    border-radius: 8px;
+    min-height: 60px;
+}
+
+.btn {
+    background-color: #343a40;
+    color: white;
+    border: none;
+    padding: 15px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: #495057;
+    color: white;
+}
+
+.operador {
+    background-color: #9b5de5;
+}
+
+.operador:hover {
+    background-color: #8346d1;
+} 
